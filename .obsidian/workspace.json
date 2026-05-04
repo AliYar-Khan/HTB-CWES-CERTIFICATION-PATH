@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Using Web Proxies/3.4 Web Scanner/3.4.3 Extensions.md",
+                "file": "3. Using Web Proxies/3.5 Skill Assesment/3.5.1 Skill Assesment Lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.4.3 Extensions"
+              "title": "3.5.1 Skill Assesment Lab"
             }
           }
         ]
@@ -183,8 +183,11 @@
   },
   "active": "863fade18a4de73f",
   "lastOpenFiles": [
-    "3. Using Web Proxies/3.4 Web Scanner/3.4.2 ZAP Scanner.md",
+    "3. Using Web Proxies/3.2 Web Proxy/3.2.1 Proxy Setup.md",
+    "3. Using Web Proxies/3.2 Web Proxy/3.2.6 Encoding & Decoding.md",
+    "3. Using Web Proxies/3.5 Skill Assesment/3.5.1 Skill Assesment Lab.md",
     "3. Using Web Proxies/3.4 Web Scanner/3.4.3 Extensions.md",
+    "3. Using Web Proxies/3.4 Web Scanner/3.4.2 ZAP Scanner.md",
     "3. Using Web Proxies/3.4 Web Scanner/3.4.1 Burp Scanner.md",
     "3. Using Web Proxies/3.3 Web Fuzzer/3.3.2 Zap Fuzzer.md",
     "3. Using Web Proxies/3.5 Skill Assesment",
@@ -194,10 +197,8 @@
     "3. Using Web Proxies/3.3 Web Fuzzer",
     "3. Using Web Proxies/3.2 Web Proxy",
     "3. Using Web Proxies/3.1 Intro",
-    "3. Using Web Proxies/3.2 Web Proxy/3.2.6 Encoding & Decoding.md",
     "3. Using Web Proxies/3.2 Web Proxy/3.2.5 Repeating Requests.md",
     "3. Using Web Proxies/3.2 Web Proxy/3.2.2 Intercepting Web Requests.md",
-    "3. Using Web Proxies/3.2 Web Proxy/3.2.1 Proxy Setup.md",
     "3. Using Web Proxies/3.2 Web Proxy/3.2.4 Automatic Modification.md",
     "3. Using Web Proxies/3.2 Web Proxy/3.2.3 Intercepting Responses.md",
     "3. Using Web Proxies/3.1 Intro/3.1.2 Setting Up.md",
@@ -226,7 +227,6 @@
     "2. Introduction Web applications/2.3 Front end Vulnerabilities/Sensitive Data Exposure.md",
     "2. Introduction Web applications/2.3 Front end Vulnerabilities",
     "2. Introduction Web applications/2.2 Front end Components/HTML, CSS, JavaScript.md",
-    "2. Introduction Web applications/2.1 Introduction to Web Applications/2.1.1 Introduction.md",
     "2. Introduction Web applications/2.2 Front end Components",
     "2. Introduction Web applications/2.1 Introduction to Web Applications",
     "Untitled.canvas"
