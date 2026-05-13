@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Web Fuzzing/5.2 Tooling.md",
+                "file": "5 Web Fuzzing/5.3 Directory and File Fuzzing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2 Tooling"
+              "title": "5.3 Directory and File Fuzzing"
             }
           }
         ]
@@ -181,10 +181,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "863fade18a4de73f",
+  "active": "eace3fa488247dde",
   "lastOpenFiles": [
-    "5 Web Fuzzing/5.1 Introduction.md",
+    "4. Information Gathering - Web Edition/4.7 Subdomain Bruteforcing.md",
+    "4. Information Gathering - Web Edition/4.6 Subdomains.md",
+    "5 Web Fuzzing/5.4 Recursive Fuzzing.md",
+    "5 Web Fuzzing/5.3 Directory and File Fuzzing.md",
     "5 Web Fuzzing/5.2 Tooling.md",
+    "5 Web Fuzzing/5.1 Introduction.md",
     "4. Information Gathering - Web Edition/4.18 Automating Recon.md",
     "5 Web Fuzzing",
     "4. Information Gathering - Web Edition/4.19 Skill Assement.md",
@@ -198,8 +202,6 @@
     "4. Information Gathering - Web Edition/4.10 Certificate Transparency Logs.md",
     "4. Information Gathering - Web Edition/4.9 Virtual Hosts.md",
     "4. Information Gathering - Web Edition/4.8 DNS Zone Transfers.md",
-    "4. Information Gathering - Web Edition/4.7 Subdomain Bruteforcing.md",
-    "4. Information Gathering - Web Edition/4.6 Subdomains.md",
     "4. Information Gathering - Web Edition/4.5 Digging DNS.md",
     "4. Information Gathering - Web Edition/4.4 DNS.md",
     "4. Information Gathering - Web Edition/4.3 Utilizing WHOIS.md",
@@ -209,8 +211,6 @@
     "3. Using Web Proxies/3.8 Encoding & Decoding.md",
     "3. Using Web Proxies/3.7 Repeating Requests.md",
     "3. Using Web Proxies/3.4 Intercepting Web Requests.md",
-    "3. Using Web Proxies/3.3 Proxy Setup.md",
-    "3. Using Web Proxies/3.6 Automatic Modification.md",
     "3. Using Web Proxies",
     "2. Introduction Web applications/2.4 Back end Components/cvssv3_calc.png",
     "2. Introduction Web applications/2.4 Back end Components/rapid7-db.jpg",
