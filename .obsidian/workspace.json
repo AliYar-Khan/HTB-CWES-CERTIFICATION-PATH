@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Web Fuzzing/5.5 Parameter and Value Fuzzing.md",
+                "file": "5 Web Fuzzing/5.6 Virtual Host and Subdomain Fuzzing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.5 Parameter and Value Fuzzing"
+              "title": "5.6 Virtual Host and Subdomain Fuzzing"
             }
           }
         ]
@@ -183,8 +183,10 @@
   },
   "active": "eace3fa488247dde",
   "lastOpenFiles": [
-    "5 Web Fuzzing/5.4 Recursive Fuzzing.md",
+    "5 Web Fuzzing/5.7 Filtering Fuzzing Output.md",
+    "5 Web Fuzzing/5.6 Virtual Host and Subdomain Fuzzing.md",
     "5 Web Fuzzing/5.5 Parameter and Value Fuzzing.md",
+    "5 Web Fuzzing/5.4 Recursive Fuzzing.md",
     "5 Web Fuzzing/5.3 Directory and File Fuzzing.md",
     "4. Information Gathering - Web Edition/4.7 Subdomain Bruteforcing.md",
     "4. Information Gathering - Web Edition/4.6 Subdomains.md",
@@ -209,8 +211,6 @@
     "4. Information Gathering - Web Edition/4.2 WHOIS.md",
     "4. Information Gathering - Web Edition/4.1 Introduction.md",
     "4. Information Gathering - Web Edition",
-    "3. Using Web Proxies/3.8 Encoding & Decoding.md",
-    "3. Using Web Proxies/3.7 Repeating Requests.md",
     "3. Using Web Proxies",
     "2. Introduction Web applications/2.4 Back end Components/cvssv3_calc.png",
     "2. Introduction Web applications/2.4 Back end Components/rapid7-db.jpg",
