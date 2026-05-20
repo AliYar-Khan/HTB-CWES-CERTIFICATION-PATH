@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Web Fuzzing/5.12 Skill Assesment.md",
+                "file": "6 JavaScript Obfuscation/6.10 Skill Assessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.12 Skill Assesment"
+              "title": "6.10 Skill Assessment"
             }
           }
         ]
@@ -183,8 +183,17 @@
   },
   "active": "863fade18a4de73f",
   "lastOpenFiles": [
-    "5 Web Fuzzing/5.6 Virtual Host and Subdomain Fuzzing.md",
+    "6 JavaScript Obfuscation/6.9 Decoding.md",
+    "6 JavaScript Obfuscation/6.10 Skill Assessment.md",
+    "6 JavaScript Obfuscation/6.8 HTTP Requests.md",
+    "6 JavaScript Obfuscation/6.7 Code Analysis.md",
+    "6 JavaScript Obfuscation/6.6 Deobfuscation.md",
+    "6 JavaScript Obfuscation/6.5 Advanced Obfuscation.md",
+    "6 JavaScript Obfuscation/6.4 Basic Obfuscation.md",
+    "6 JavaScript Obfuscation/6.3 Code Obfuscation.md",
     "5 Web Fuzzing/5.12 Skill Assesment.md",
+    "6 JavaScript Obfuscation",
+    "5 Web Fuzzing/5.6 Virtual Host and Subdomain Fuzzing.md",
     "5 Web Fuzzing/5.4 Recursive Fuzzing.md",
     "5 Web Fuzzing/5.3 Directory and File Fuzzing.md",
     "5 Web Fuzzing/5.5 Parameter and Value Fuzzing.md",
@@ -202,14 +211,6 @@
     "4. Information Gathering - Web Edition/4.19 Skill Assement.md",
     "4. Information Gathering - Web Edition/4.17 Web Archives.md",
     "4. Information Gathering - Web Edition/4.16 Search Engine Discovery.md",
-    "4. Information Gathering - Web Edition/4.15 Creepy Crawlies.md",
-    "4. Information Gathering - Web Edition/4.14 Well-Known URIs.md",
-    "4. Information Gathering - Web Edition/4.13 robots.txt.md",
-    "4. Information Gathering - Web Edition/4.12 Crawling.md",
-    "4. Information Gathering - Web Edition/4.11 Fingerprinting.md",
-    "4. Information Gathering - Web Edition/4.10 Certificate Transparency Logs.md",
-    "4. Information Gathering - Web Edition/4.9 Virtual Hosts.md",
-    "4. Information Gathering - Web Edition/4.8 DNS Zone Transfers.md",
     "4. Information Gathering - Web Edition",
     "3. Using Web Proxies",
     "2. Introduction Web applications/2.4 Back end Components/cvssv3_calc.png",
@@ -228,7 +229,6 @@
     "2. Introduction Web applications/2.1 Introduction to Web Applications",
     "3. Front end Vulnerabilities Module",
     "2. Introduction Web applications",
-    "Notes",
     "Untitled.canvas"
   ]
 }
