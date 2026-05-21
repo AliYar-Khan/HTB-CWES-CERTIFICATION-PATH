@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0b504361e3d0eb95",
+        "id": "54b1d2ddba2911dc",
         "type": "tabs",
         "children": [
           {
-            "id": "863fade18a4de73f",
+            "id": "47b17d3441f8174a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 JavaScript Obfuscation/6.10 Skill Assessment.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6.10 Skill Assessment"
+              "title": "New tab"
             }
           }
         ]
@@ -181,13 +177,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "863fade18a4de73f",
+  "active": "47b17d3441f8174a",
   "lastOpenFiles": [
-    "6 JavaScript Obfuscation/6.9 Decoding.md",
     "6 JavaScript Obfuscation/6.10 Skill Assessment.md",
+    "6 JavaScript Obfuscation/6.9 Decoding.md",
     "6 JavaScript Obfuscation/6.8 HTTP Requests.md",
-    "6 JavaScript Obfuscation/6.7 Code Analysis.md",
     "6 JavaScript Obfuscation/6.6 Deobfuscation.md",
+    "6 JavaScript Obfuscation/6.7 Code Analysis.md",
     "6 JavaScript Obfuscation/6.5 Advanced Obfuscation.md",
     "6 JavaScript Obfuscation/6.4 Basic Obfuscation.md",
     "6 JavaScript Obfuscation/6.3 Code Obfuscation.md",
