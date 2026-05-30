@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c4dc6d213c86c8f5",
+        "id": "f284f6ecaec6a328",
         "type": "tabs",
         "children": [
           {
-            "id": "0c976883e82ba084",
+            "id": "73ab360aaef55fd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 XSS/7.5 XSS Discovery.md",
+                "file": "7 XSS/XSS Attacks/7.7 Phishing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.5 XSS Discovery"
+              "title": "7.7 Phishing"
             }
           }
         ]
@@ -182,13 +182,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c976883e82ba084",
+  "active": "73ab360aaef55fd9",
   "lastOpenFiles": [
-    "7 XSS/7.4 DOM XSS.md",
-    "7 XSS/7.5 XSS Discovery.md",
-    "7 XSS/7.3 Reflected XSS.md",
-    "7 XSS/7.2 Stored XSS.md",
-    "7 XSS/7.1 Introduction.md",
+    "7 XSS/XSS Attacks/7.6 Defacing.md",
+    "7 XSS/XSS Attacks/7.7 Phishing.md",
+    "7 XSS/XSS Attacks",
+    "7 XSS/Basics",
+    "7 XSS/Untitled.md",
+    "7 XSS/Basics/7.5 XSS Discovery.md",
+    "7 XSS/Basics/7.4 DOM XSS.md",
+    "7 XSS/Basics/7.3 Reflected XSS.md",
+    "7 XSS/Basics/7.2 Stored XSS.md",
+    "7 XSS/Basics/7.1 Introduction.md",
     "7 XSS",
     "6 JavaScript Obfuscation/6.10 Skill Assessment.md",
     "6 JavaScript Obfuscation/6.9 Decoding.md",
@@ -209,9 +214,6 @@
     "5 Web Fuzzing/5.9 Web API's.md",
     "5 Web Fuzzing/5.8 Validating Findings.md",
     "5 Web Fuzzing/5.7 Filtering Fuzzing Output.md",
-    "4. Information Gathering - Web Edition/4.7 Subdomain Bruteforcing.md",
-    "4. Information Gathering - Web Edition/4.6 Subdomains.md",
-    "5 Web Fuzzing/5.2 Tooling.md",
     "5 Web Fuzzing",
     "4. Information Gathering - Web Edition",
     "3. Using Web Proxies",
@@ -228,8 +230,6 @@
     "2. Introduction Web applications/2.4 Back end Components",
     "2. Introduction Web applications/2.3 Front end Vulnerabilities",
     "2. Introduction Web applications/2.2 Front end Components",
-    "2. Introduction Web applications/2.1 Introduction to Web Applications",
-    "3. Front end Vulnerabilities Module",
     "Untitled.canvas"
   ]
 }
