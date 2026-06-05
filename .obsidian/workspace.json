@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 XSS/XSS Attacks/7.8 Session Hijacking.md",
+                "file": "7 XSS/XSS Attacks/7.10 Skill assesment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.8 Session Hijacking"
+              "title": "7.10 Skill assesment"
             }
           }
         ]
@@ -184,8 +184,10 @@
   },
   "active": "73ab360aaef55fd9",
   "lastOpenFiles": [
-    "7 XSS/XSS Attacks/7.7 Phishing.md",
     "7 XSS/XSS Attacks/7.8 Session Hijacking.md",
+    "7 XSS/XSS Attacks/7.10 Skill assesment.md",
+    "7 XSS/XSS Attacks/7.9 XSS Prevention.md",
+    "7 XSS/XSS Attacks/7.7 Phishing.md",
     "7 XSS/XSS Attacks/7.6 Defacing.md",
     "7 XSS/XSS Attacks",
     "7 XSS/Basics",
@@ -212,8 +214,6 @@
     "5 Web Fuzzing/5.5 Parameter and Value Fuzzing.md",
     "5 Web Fuzzing/5.11 API Fuzzing.md",
     "5 Web Fuzzing/5.10 Identifying Endpoints.md",
-    "5 Web Fuzzing/5.9 Web API's.md",
-    "5 Web Fuzzing/5.8 Validating Findings.md",
     "5 Web Fuzzing",
     "4. Information Gathering - Web Edition",
     "3. Using Web Proxies",
