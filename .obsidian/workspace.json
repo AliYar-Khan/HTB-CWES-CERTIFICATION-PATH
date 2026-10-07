@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5f436c6f61cab474",
+        "id": "798ba56b96b69f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "26a154cb8ae01e7b",
+            "id": "6a9410df06a34c24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8 SQL Injection Fundamentals/8.6 Mitigations/8.6.2 Skill Assessment.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8.6.2 Skill Assessment"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -182,10 +180,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "eace3fa488247dde",
+  "active": "6a9410df06a34c24",
   "lastOpenFiles": [
-    "8 SQL Injection Fundamentals/8.5 Exploitation/8.5.3 Writing Files.md",
+    "SQLMap Essentials/9.11 Skill Assessment.md",
+    "SQLMap Essentials/9.10 OS Exploitation.md",
+    "SQLMap Essentials/9.9 Bypassing Web Application Protections.md",
+    "3. Using Web Proxies/3.2 Web Proxy/3.2.1 Proxy Setup.md",
+    "SQLMap Essentials/9.8 Advance Database Enumeration.md",
+    "SQLMap Essentials/9.7 Database Enumeration.md",
+    "SQLMap Essentials/9.6 Attack Tuning.md",
+    "Excalidraw/Drawing 2026-09-27 23.08.08.excalidraw.md",
+    "1. WEB Request/HTTP Headers.md",
+    "Excalidraw",
+    "SQLMap Essentials/9.4 Running SQLMap on an HTTP Request.md",
+    "5 Web Fuzzing/5.8 Validating Findings.md",
+    "SQLMap Essentials/9.5 Handling SQLMap Errors.md",
+    "SQLMap Essentials/9.3 SQLMap Output Description.md",
+    "SQLMap Essentials/9.2 Getting Started with SQLMap.md",
+    "SQLMap Essentials/9.1 SQLMap Overview.md",
     "8 SQL Injection Fundamentals/8.6 Mitigations/8.6.2 Skill Assessment.md",
+    "SQLMap Essentials",
+    "8 SQL Injection Fundamentals/8.5 Exploitation/8.5.3 Writing Files.md",
     "8 SQL Injection Fundamentals/8.5 Exploitation/8.5.2 Reading Files.md",
     "8 SQL Injection Fundamentals/8.6 Mitigations/8.6.1 Mitigating SQL Injection.md",
     "8 SQL Injection Fundamentals/8.5 Exploitation/8.5.1 Database Enumeration.md",
@@ -197,29 +212,12 @@
     "8 SQL Injection Fundamentals/8.6 Mitigations",
     "2. Introduction Web applications/2.1 Introduction to Web Applications/2.1.2 Web application layout.md",
     "8 SQL Injection Fundamentals/8.5 Exploitation",
-    "3. Using Web Proxies/3.2 Web Proxy/3.2.1 Proxy Setup.md",
-    "8 SQL Injection Fundamentals/8.3 MySQL/8.3.1 Intro to MYSQL.md",
     "8 SQL Injection Fundamentals/8.4 SQL Injections",
     "8 SQL Injection Fundamentals/8.2 Databases",
-    "8 SQL Injection Fundamentals/8.3 MySQL/8.3.4 SQL Operators.md",
-    "8 SQL Injection Fundamentals/8.3 MySQL/8.3.3 Query Results.md",
-    "8 SQL Injection Fundamentals/8.3 MySQL/8.3.2 SQL Statements.md",
-    "8 SQL Injection Fundamentals/8.2 Databases/8.2.2 Types of Databases.md",
     "8 SQL Injection Fundamentals/8.3 MySQL",
-    "8 SQL Injection Fundamentals/8.2 Databases/8.2.1 Intro to Databases.md",
-    "8 SQL Injection Fundamentals/8.1 Introduction/8.1.1 Intro.md",
     "8 SQL Injection Fundamentals/8.1 Introduction",
-    "7 XSS/XSS Attacks/7.10 Skill assesment.md",
     "8 SQL Injection Fundamentals",
     "7 XSS/Untitled",
-    "7 XSS/XSS Attacks/7.8 Session Hijacking.md",
-    "7 XSS/XSS Attacks/7.9 XSS Prevention.md",
-    "7 XSS/XSS Attacks/7.7 Phishing.md",
-    "7 XSS/XSS Attacks/7.6 Defacing.md",
-    "7 XSS/XSS Attacks",
-    "7 XSS/Basics",
-    "7 XSS/Untitled.md",
-    "7 XSS/Basics/7.5 XSS Discovery.md",
     "2. Introduction Web applications/2.4 Back end Components/cvssv3_calc.png",
     "2. Introduction Web applications/2.4 Back end Components/rapid7-db.jpg",
     "2. Introduction Web applications/2.4 Back end Components/api_examples.jpg",
