@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "798ba56b96b69f6c",
+        "id": "f35137104d402bb7",
         "type": "tabs",
         "children": [
           {
-            "id": "6a9410df06a34c24",
+            "id": "f07b136f6b10d555",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 File Upload Attacks/1 Intro to File Upload Attacks.md",
+                "file": "11 File Upload Attacks/5 Blacklist filters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Intro to File Upload Attacks"
+              "title": "5 Blacklist filters"
             }
           }
         ]
@@ -184,10 +184,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "6a9410df06a34c24",
+  "active": "f07b136f6b10d555",
   "lastOpenFiles": [
-    "10 Command Injections/10.12 Skill Assessment.md",
+    "11 File Upload Attacks/5 Blacklist filters.md",
+    "11 File Upload Attacks/3 Upload Exploitation.md",
+    "11 File Upload Attacks/3 Client-Side Validation.md",
+    "11 File Upload Attacks/4 Client-Side Validation.md",
+    "11 File Upload Attacks/2 Absent Validation.md",
     "11 File Upload Attacks/1 Intro to File Upload Attacks.md",
+    "10 Command Injections/10.12 Skill Assessment.md",
     "11 File Upload Attacks",
     "10 Command Injections/10.11 Command Injection Prevention.md",
     "10 Command Injections/10.10 Evasion Tools.md",
@@ -209,12 +214,7 @@
     "9 SQLMap Essentials/9.7 Database Enumeration.md",
     "9 SQLMap Essentials/9.6 Attack Tuning.md",
     "Excalidraw/Drawing 2026-09-27 23.08.08.excalidraw.md",
-    "1. WEB Request/HTTP Headers.md",
     "Excalidraw",
-    "9 SQLMap Essentials/9.4 Running SQLMap on an HTTP Request.md",
-    "5 Web Fuzzing/5.8 Validating Findings.md",
-    "9 SQLMap Essentials/9.5 Handling SQLMap Errors.md",
-    "9 SQLMap Essentials/9.3 SQLMap Output Description.md",
     "9 SQLMap Essentials",
     "8 SQL Injection Fundamentals/8.6 Mitigations",
     "8 SQL Injection Fundamentals/8.5 Exploitation",
