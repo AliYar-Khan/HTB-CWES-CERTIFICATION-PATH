@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 File Upload Attacks/5 Blacklist filters.md",
+                "file": "11 File Upload Attacks/6 Whitelist filters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 Blacklist filters"
+              "title": "6 Whitelist filters"
             }
           }
         ]
@@ -187,6 +187,7 @@
   "active": "f07b136f6b10d555",
   "lastOpenFiles": [
     "11 File Upload Attacks/5 Blacklist filters.md",
+    "11 File Upload Attacks/6 Whitelist filters.md",
     "11 File Upload Attacks/3 Upload Exploitation.md",
     "11 File Upload Attacks/3 Client-Side Validation.md",
     "11 File Upload Attacks/4 Client-Side Validation.md",
@@ -213,7 +214,6 @@
     "9 SQLMap Essentials/9.8 Advance Database Enumeration.md",
     "9 SQLMap Essentials/9.7 Database Enumeration.md",
     "9 SQLMap Essentials/9.6 Attack Tuning.md",
-    "Excalidraw/Drawing 2026-09-27 23.08.08.excalidraw.md",
     "Excalidraw",
     "9 SQLMap Essentials",
     "8 SQL Injection Fundamentals/8.6 Mitigations",
