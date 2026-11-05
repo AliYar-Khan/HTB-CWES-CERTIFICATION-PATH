@@ -48,7 +48,7 @@ http://<SERVER_IP>:PORT/
 
 Since the injected payload was not executed, we follow the red arrow and now inject the payload `{{7*7}}`:
 
-http://<SERVER_IP>:PORT/
+http://SERVER_IP:PORT/
 
 ![Simple Test Server page displaying greeting 'Hi 49!', IP address, and current time.](https://cdn.services-k8s.prod.aws.htb.systems/content/modules/145/ssti/ssti_identification_5.png)
 

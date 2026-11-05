@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "01962e622fbcaff8",
+        "id": "0da3c17379d7e245",
         "type": "tabs",
         "children": [
           {
-            "id": "e2266c0dea38ddb2",
+            "id": "8e67a07f46031549",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "12 Server-side Attacks/19 Skills Assessment.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "19 Skills Assessment"
             }
           }
         ]
@@ -184,28 +188,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2266c0dea38ddb2",
+  "active": "8e67a07f46031549",
   "lastOpenFiles": [
-    "12 Server-side Attacks/SSTI/9 Identifying SSTI.md",
-    "12 Server-side Attacks/SSTI/8 Introduction to SSTI.md",
-    "12 Server-side Attacks/SSTI/7 Template Engines.md",
-    "12 Server-side Attacks/SSRF/6 Preventing SSRF.md",
-    "12 Server-side Attacks/SSTI",
-    "12 Server-side Attacks/SSRF",
-    "12 Server-side Attacks/Introduction",
+    "12 Server-side Attacks/3 SSTI/11 Exploiting SSTI - Twig.md",
+    "12 Server-side Attacks/3 SSTI/10 Exploiting SSTI - Jinja2.md",
+    "12 Server-side Attacks/3 SSTI/9 Identifying SSTI.md",
+    "12 Server-side Attacks/3 SSTI/8 Introduction to SSTI.md",
+    "12 Server-side Attacks/3 SSTI/7 Template Engines.md",
+    "12 Server-side Attacks/2 SSRF/3 Identifying SSRF.md",
+    "12 Server-side Attacks/2 SSRF/4 Exploiting SSRF.md",
+    "12 Server-side Attacks/4 SSI/14 Exploiting SSI Injection.md",
+    "12 Server-side Attacks/4 SSI/13 Introduction to SSI Injection.md",
+    "12 Server-side Attacks/2 SSRF/5 Blind SSRF.md",
+    "12 Server-side Attacks/2 SSRF/6 Preventing SSRF.md",
+    "12 Server-side Attacks/2 SSRF/2 Introduction to SSRF.md",
+    "12 Server-side Attacks/1 Introduction/1 Introduction to Server-side Attacks.md",
+    "12 Server-side Attacks/19 Skills Assessment.md",
+    "12 Server-side Attacks/5 XSLT/18 Preventing XSLT Injection.md",
+    "12 Server-side Attacks/5 XSLT/17 Exploiting XSLT Injection.md",
+    "12 Server-side Attacks/5 XSLT/16 Intro to XSLT Injection.md",
+    "12 Server-side Attacks/4 SSI/15 Preventing SSI Injection.md",
+    "12 Server-side Attacks/5 XSLT",
+    "12 Server-side Attacks/Introduction/Untitled.md",
+    "12 Server-side Attacks/3 SSTI/12 SSTI Tools of the Trade & Preventing SSTI.md",
+    "12 Server-side Attacks/4 SSI",
+    "12 Server-side Attacks/3 SSTI",
+    "12 Server-side Attacks/2 SSRF",
+    "12 Server-side Attacks/1 Introduction",
     "7 XSS/Basics/7.3 Reflected XSS.md",
     "7 XSS/XSS Attacks/7.10 Skill assesment.md",
     "7 XSS/XSS Attacks/7.9 XSS Prevention.md",
     "7 XSS/XSS Attacks/7.8 Session Hijacking.md",
     "7 XSS/XSS Attacks/7.7 Phishing.md",
-    "7 XSS/XSS Attacks/7.6 Defacing.md",
-    "12 Server-side Attacks/SSRF/5 Blind SSRF.md",
-    "12 Server-side Attacks/SSRF/4 Exploiting SSRF.md",
-    "12 Server-side Attacks/SSRF/3 Identifying SSRF.md",
-    "12 Server-side Attacks/Identifying SSRF.md",
-    "11 File Upload Attacks/2 Absent Validation.md",
-    "11 File Upload Attacks/3 Upload Exploitation.md",
-    "12 Server-side Attacks/Introduction/1 Introduction to Server-side Attacks.md",
-    "12 Server-side Attacks/SSRF/2 Introduction to SSRF.md"
+    "7 XSS/XSS Attacks/7.6 Defacing.md"
   ]
 }

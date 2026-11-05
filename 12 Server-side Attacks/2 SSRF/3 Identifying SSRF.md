@@ -7,7 +7,7 @@ After discussing the basics of SSRF vulnerabilities, let us jump right into an e
 
 Looking at the web application, we are greeted with some generic text as well as functionality to schedule appointments:
 
-[[http://<SERVER_IP>:PORT]]
+http://SERVER_IP:PORT
 
 ![Text about DefendTech Innovations' commitment to client relationships and security, with a 'Schedule an appointment' section featuring a date picker and 'Check Availability' button.](https://cdn.services-k8s.prod.aws.htb.systems/content/modules/145/ssrf/ssrf_identify_1.png)
 
