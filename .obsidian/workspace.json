@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12 Server-side Attacks/19 Skills Assessment.md",
+                "file": "13 Login Brute Forcing/6 Skill Assessment/Skill Assessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19 Skills Assessment"
+              "title": "Skill Assessment"
             }
           }
         ]
@@ -188,8 +188,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "8e67a07f46031549",
+  "active": "c5dc09621943f62e",
   "lastOpenFiles": [
+    "13 Login Brute Forcing/5 Custom Wordlist/11 Custom Wordlist.md",
+    "13 Login Brute Forcing/3 Hyrdra/6 Hydra.md",
+    "13 Login Brute Forcing/3 Hyrdra/7 Basic HTTP Authentication.md",
+    "13 Login Brute Forcing/3 Hyrdra/8 Login Forms.md",
+    "13 Login Brute Forcing/4 Medusa/10 Web Services.md",
+    "13 Login Brute Forcing/4 Medusa/9 Medusa.md",
+    "13 Login Brute Forcing/6 Skill Assessment/Skill Assessment.md",
+    "13 Login Brute Forcing/6 Skill Assessment",
+    "13 Login Brute Forcing/5 Custom Wordlist",
+    "13 Login Brute Forcing/4 Medusa",
+    "13 Login Brute Forcing/2 Brute Force Attacks/5 Hybrid Attacks.md",
+    "13 Login Brute Forcing/3 Hyrdra",
+    "13 Login Brute Forcing/2 Brute Force Attacks/4 Dictionary Attacks.md",
+    "13 Login Brute Forcing/2 Brute Force Attacks/3 Brute Force Attacks.md",
+    "13 Login Brute Forcing/2 Brute Force Attacks/output.txt",
+    "13 Login Brute Forcing/2 Brute Force Attacks/pins.txt",
+    "13 Login Brute Forcing/2 Brute Force Attacks/cracking-pin.py.md",
+    "13 Login Brute Forcing/2 Brute Force Attacks/cracking-pin.py",
+    "13 Login Brute Forcing/1 introduction/2 Password Security Fundamentals.md",
+    "13 Login Brute Forcing/2 Brute Force Attacks",
+    "13 Login Brute Forcing/1 introduction/1 Introduction.md",
+    "12 Server-side Attacks/19 Skills Assessment.md",
+    "13 Login Brute Forcing/1 introduction",
+    "13 Login Brute Forcing",
     "12 Server-side Attacks/3 SSTI/11 Exploiting SSTI - Twig.md",
     "12 Server-side Attacks/3 SSTI/10 Exploiting SSTI - Jinja2.md",
     "12 Server-side Attacks/3 SSTI/9 Identifying SSTI.md",
@@ -201,25 +225,6 @@
     "12 Server-side Attacks/4 SSI/13 Introduction to SSI Injection.md",
     "12 Server-side Attacks/2 SSRF/5 Blind SSRF.md",
     "12 Server-side Attacks/2 SSRF/6 Preventing SSRF.md",
-    "12 Server-side Attacks/2 SSRF/2 Introduction to SSRF.md",
-    "12 Server-side Attacks/1 Introduction/1 Introduction to Server-side Attacks.md",
-    "12 Server-side Attacks/19 Skills Assessment.md",
-    "12 Server-side Attacks/5 XSLT/18 Preventing XSLT Injection.md",
-    "12 Server-side Attacks/5 XSLT/17 Exploiting XSLT Injection.md",
-    "12 Server-side Attacks/5 XSLT/16 Intro to XSLT Injection.md",
-    "12 Server-side Attacks/4 SSI/15 Preventing SSI Injection.md",
-    "12 Server-side Attacks/5 XSLT",
-    "12 Server-side Attacks/Introduction/Untitled.md",
-    "12 Server-side Attacks/3 SSTI/12 SSTI Tools of the Trade & Preventing SSTI.md",
-    "12 Server-side Attacks/4 SSI",
-    "12 Server-side Attacks/3 SSTI",
-    "12 Server-side Attacks/2 SSRF",
-    "12 Server-side Attacks/1 Introduction",
-    "7 XSS/Basics/7.3 Reflected XSS.md",
-    "7 XSS/XSS Attacks/7.10 Skill assesment.md",
-    "7 XSS/XSS Attacks/7.9 XSS Prevention.md",
-    "7 XSS/XSS Attacks/7.8 Session Hijacking.md",
-    "7 XSS/XSS Attacks/7.7 Phishing.md",
-    "7 XSS/XSS Attacks/7.6 Defacing.md"
+    "12 Server-side Attacks/2 SSRF/2 Introduction to SSRF.md"
   ]
 }
