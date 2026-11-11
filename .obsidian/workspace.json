@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 Login Brute Forcing/6 Skill Assessment/Skill Assessment.md",
+                "file": "14 Broken Authentication/6 Skill Assessment/14 Skill Assessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skill Assessment"
+              "title": "14 Skill Assessment"
             }
           }
         ]
@@ -188,43 +188,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "c5dc09621943f62e",
+  "active": "8e67a07f46031549",
   "lastOpenFiles": [
+    "14 Broken Authentication/2 Brute Force Attacks/4 Brute-Forcing Passwords.md",
+    "14 Broken Authentication/2 Brute Force Attacks/3 Enumerating Users.md",
+    "14 Broken Authentication/4 Authentication Bypass/10 Authentication Bypass via Direct Access.md",
+    "14 Broken Authentication/5 Session Attacks/12 Attacking Session Tokens.md",
+    "14 Broken Authentication/3 Password Attacks/8 Default Credentials.md",
+    "14 Broken Authentication/6 Skill Assessment/14 Skill Assessment.md",
+    "14 Broken Authentication/5 Session Attacks/13 Further Session Attacks.md",
+    "14 Broken Authentication/4 Authentication Bypass/11 Authentication Bypass via Parameter Modification.md",
+    "14 Broken Authentication/3 Password Attacks/9 Vulnerable Password Reset.md",
+    "14 Broken Authentication/2 Brute Force Attacks/5 Brute-Forcing Password Reset Tokens.md",
+    "14 Broken Authentication/2 Brute Force Attacks/6 Brute-Forcing 2FA Codes.md",
+    "14 Broken Authentication/2 Brute Force Attacks/7 Weak Brute-Force Protection.md",
+    "14 Broken Authentication/1 Introduction/1 What is Authentication.md",
+    "14 Broken Authentication/1 Introduction/2 Attacks on Authentication.md",
+    "13 Login Brute Forcing/6 Skill Assessment/Skill Assessment.md",
+    "14 Broken Authentication/6 Skill Assessment",
+    "14 Broken Authentication/5 Session Attacks",
+    "14 Broken Authentication/4 Authentication Bypass",
+    "14 Broken Authentication/3 Password Attacks",
+    "14 Broken Authentication/2 Brute Force Attacks",
+    "14 Broken Authentication/1 Introduction",
+    "14 Broken Authentication",
     "13 Login Brute Forcing/5 Custom Wordlist/11 Custom Wordlist.md",
     "13 Login Brute Forcing/3 Hyrdra/6 Hydra.md",
     "13 Login Brute Forcing/3 Hyrdra/7 Basic HTTP Authentication.md",
     "13 Login Brute Forcing/3 Hyrdra/8 Login Forms.md",
     "13 Login Brute Forcing/4 Medusa/10 Web Services.md",
     "13 Login Brute Forcing/4 Medusa/9 Medusa.md",
-    "13 Login Brute Forcing/6 Skill Assessment/Skill Assessment.md",
     "13 Login Brute Forcing/6 Skill Assessment",
     "13 Login Brute Forcing/5 Custom Wordlist",
     "13 Login Brute Forcing/4 Medusa",
     "13 Login Brute Forcing/2 Brute Force Attacks/5 Hybrid Attacks.md",
-    "13 Login Brute Forcing/3 Hyrdra",
     "13 Login Brute Forcing/2 Brute Force Attacks/4 Dictionary Attacks.md",
     "13 Login Brute Forcing/2 Brute Force Attacks/3 Brute Force Attacks.md",
-    "13 Login Brute Forcing/2 Brute Force Attacks/output.txt",
-    "13 Login Brute Forcing/2 Brute Force Attacks/pins.txt",
     "13 Login Brute Forcing/2 Brute Force Attacks/cracking-pin.py.md",
-    "13 Login Brute Forcing/2 Brute Force Attacks/cracking-pin.py",
-    "13 Login Brute Forcing/1 introduction/2 Password Security Fundamentals.md",
-    "13 Login Brute Forcing/2 Brute Force Attacks",
-    "13 Login Brute Forcing/1 introduction/1 Introduction.md",
-    "12 Server-side Attacks/19 Skills Assessment.md",
-    "13 Login Brute Forcing/1 introduction",
-    "13 Login Brute Forcing",
-    "12 Server-side Attacks/3 SSTI/11 Exploiting SSTI - Twig.md",
-    "12 Server-side Attacks/3 SSTI/10 Exploiting SSTI - Jinja2.md",
-    "12 Server-side Attacks/3 SSTI/9 Identifying SSTI.md",
-    "12 Server-side Attacks/3 SSTI/8 Introduction to SSTI.md",
-    "12 Server-side Attacks/3 SSTI/7 Template Engines.md",
-    "12 Server-side Attacks/2 SSRF/3 Identifying SSRF.md",
-    "12 Server-side Attacks/2 SSRF/4 Exploiting SSRF.md",
-    "12 Server-side Attacks/4 SSI/14 Exploiting SSI Injection.md",
-    "12 Server-side Attacks/4 SSI/13 Introduction to SSI Injection.md",
-    "12 Server-side Attacks/2 SSRF/5 Blind SSRF.md",
-    "12 Server-side Attacks/2 SSRF/6 Preventing SSRF.md",
-    "12 Server-side Attacks/2 SSRF/2 Introduction to SSRF.md"
+    "13 Login Brute Forcing/1 introduction/2 Password Security Fundamentals.md"
   ]
 }
