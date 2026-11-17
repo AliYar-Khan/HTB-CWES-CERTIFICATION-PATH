@@ -16,7 +16,7 @@ $contentType = $_FILES['uploadFile']['type'];
 $MIMEtype = mime_content_type($_FILES['uploadFile']['tmp_name']);
 
 // blacklist test
-if (preg_match('/.+\.ph(p|ps|tml)/', $fileName)) {
+if (preg_match('/.+\.ph(p|ps|tml)/', $fileName)) { //phar
     echo "Extension not allowed";
     die();
 }

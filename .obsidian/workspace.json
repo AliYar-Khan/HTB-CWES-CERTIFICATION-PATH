@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0da3c17379d7e245",
+        "id": "a84547e7684787d9",
         "type": "tabs",
         "children": [
           {
-            "id": "8e67a07f46031549",
+            "id": "e2de85f296c2eb05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14 Broken Authentication/6 Skill Assessment/14 Skill Assessment.md",
+                "file": "15 Web Attacks/3 IDOR/7 Identifying IDORS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 Skill Assessment"
+              "title": "7 Identifying IDORS"
             }
           }
         ]
@@ -188,43 +188,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "8e67a07f46031549",
+  "active": "e2de85f296c2eb05",
   "lastOpenFiles": [
-    "14 Broken Authentication/2 Brute Force Attacks/4 Brute-Forcing Passwords.md",
-    "14 Broken Authentication/2 Brute Force Attacks/3 Enumerating Users.md",
-    "14 Broken Authentication/4 Authentication Bypass/10 Authentication Bypass via Direct Access.md",
-    "14 Broken Authentication/5 Session Attacks/12 Attacking Session Tokens.md",
-    "14 Broken Authentication/3 Password Attacks/8 Default Credentials.md",
+    "15 Web Attacks/3 IDOR/6 Intro to IDOR.md",
+    "15 Web Attacks/2 HTTP Verb Tampering/5 Verb Tampering Prevention.md",
+    "11 File Upload Attacks/upload.php file.md",
+    "11 File Upload Attacks/11 Skills Assessment - File Upload Attacks.md",
+    "11 File Upload Attacks/common-functions.php file.md",
+    "1. WEB Request/CRUD API.md",
+    "11 File Upload Attacks/2 Absent Validation.md",
+    "11 File Upload Attacks/1 Intro to File Upload Attacks.md",
+    "15 Web Attacks/2 HTTP Verb Tampering/4 Bypassing Security Filters.md",
+    "15 Web Attacks/2 HTTP Verb Tampering/3 Bypassing Basic Authentication.md",
+    "15 Web Attacks/2 HTTP Verb Tampering/2 Introduction to HTTP Verb Tampering.md",
+    "15 Web Attacks/4 XXE Injection/14 Local File Disclosure.md",
+    "15 Web Attacks/5 Skill Assessment/18 Skill Assessment.md",
+    "15 Web Attacks/4 XXE Injection/17 XXE Prevention.md",
+    "15 Web Attacks/4 XXE Injection/16 Blind Data Exfiltration.md",
+    "15 Web Attacks/4 XXE Injection/15 Advance File Disclosure.md",
+    "15 Web Attacks/4 XXE Injection/13 Intro to XXE.md",
+    "15 Web Attacks/3 IDOR/12 IDOR Prevention.md",
+    "15 Web Attacks/3 IDOR/11 Chaining IDOR Vulnerabilities.md",
+    "15 Web Attacks/3 IDOR/10 IDOR in Insecure APIs.md",
+    "15 Web Attacks/3 IDOR/9 Bypassing Encoded References.md",
+    "15 Web Attacks/3 IDOR/8 Mass IDOR Enumeration.md",
+    "15 Web Attacks/3 IDOR/7 Identifying IDORS.md",
+    "15 Web Attacks/1 Introduction/1 Introduction to Web Attacks.md",
+    "15 Web Attacks/5 Skill Assessment",
+    "15 Web Attacks/4 XXE Injection",
+    "15 Web Attacks/3 IDOR",
+    "15 Web Attacks/2 HTTP Verb Tampering",
+    "15 Web Attacks/1 Introduction",
     "14 Broken Authentication/6 Skill Assessment/14 Skill Assessment.md",
-    "14 Broken Authentication/5 Session Attacks/13 Further Session Attacks.md",
-    "14 Broken Authentication/4 Authentication Bypass/11 Authentication Bypass via Parameter Modification.md",
-    "14 Broken Authentication/3 Password Attacks/9 Vulnerable Password Reset.md",
-    "14 Broken Authentication/2 Brute Force Attacks/5 Brute-Forcing Password Reset Tokens.md",
-    "14 Broken Authentication/2 Brute Force Attacks/6 Brute-Forcing 2FA Codes.md",
-    "14 Broken Authentication/2 Brute Force Attacks/7 Weak Brute-Force Protection.md",
-    "14 Broken Authentication/1 Introduction/1 What is Authentication.md",
-    "14 Broken Authentication/1 Introduction/2 Attacks on Authentication.md",
-    "13 Login Brute Forcing/6 Skill Assessment/Skill Assessment.md",
-    "14 Broken Authentication/6 Skill Assessment",
-    "14 Broken Authentication/5 Session Attacks",
-    "14 Broken Authentication/4 Authentication Bypass",
-    "14 Broken Authentication/3 Password Attacks",
-    "14 Broken Authentication/2 Brute Force Attacks",
-    "14 Broken Authentication/1 Introduction",
-    "14 Broken Authentication",
-    "13 Login Brute Forcing/5 Custom Wordlist/11 Custom Wordlist.md",
-    "13 Login Brute Forcing/3 Hyrdra/6 Hydra.md",
-    "13 Login Brute Forcing/3 Hyrdra/7 Basic HTTP Authentication.md",
-    "13 Login Brute Forcing/3 Hyrdra/8 Login Forms.md",
-    "13 Login Brute Forcing/4 Medusa/10 Web Services.md",
-    "13 Login Brute Forcing/4 Medusa/9 Medusa.md",
-    "13 Login Brute Forcing/6 Skill Assessment",
-    "13 Login Brute Forcing/5 Custom Wordlist",
-    "13 Login Brute Forcing/4 Medusa",
-    "13 Login Brute Forcing/2 Brute Force Attacks/5 Hybrid Attacks.md",
-    "13 Login Brute Forcing/2 Brute Force Attacks/4 Dictionary Attacks.md",
-    "13 Login Brute Forcing/2 Brute Force Attacks/3 Brute Force Attacks.md",
-    "13 Login Brute Forcing/2 Brute Force Attacks/cracking-pin.py.md",
-    "13 Login Brute Forcing/1 introduction/2 Password Security Fundamentals.md"
+    "Untitled.md",
+    "20 Bug Hunting Process",
+    "19 Attacking Common Applications",
+    "18 API Attacks",
+    "17 Attacking GraphQL",
+    "16 File Inclusions"
   ]
 }
