@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15 Web Attacks/3 IDOR/7 Identifying IDORS.md",
+                "file": "15 Web Attacks/3 IDOR/12 IDOR Prevention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Identifying IDORS"
+              "title": "12 IDOR Prevention"
             }
           }
         ]
@@ -179,17 +179,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "e2de85f296c2eb05",
   "lastOpenFiles": [
+    "15 Web Attacks/3 IDOR/11 Chaining IDOR Vulnerabilities.md",
+    "15 Web Attacks/3 IDOR/10 IDOR in Insecure APIs.md",
+    "15 Web Attacks/3 IDOR/9 Bypassing Encoded References.md",
+    "15 Web Attacks/3 IDOR/8 Mass IDOR Enumeration.md",
+    "15 Web Attacks/3 IDOR/7 Identifying IDORS.md",
     "15 Web Attacks/3 IDOR/6 Intro to IDOR.md",
     "15 Web Attacks/2 HTTP Verb Tampering/5 Verb Tampering Prevention.md",
     "11 File Upload Attacks/upload.php file.md",
@@ -208,11 +213,6 @@
     "15 Web Attacks/4 XXE Injection/15 Advance File Disclosure.md",
     "15 Web Attacks/4 XXE Injection/13 Intro to XXE.md",
     "15 Web Attacks/3 IDOR/12 IDOR Prevention.md",
-    "15 Web Attacks/3 IDOR/11 Chaining IDOR Vulnerabilities.md",
-    "15 Web Attacks/3 IDOR/10 IDOR in Insecure APIs.md",
-    "15 Web Attacks/3 IDOR/9 Bypassing Encoded References.md",
-    "15 Web Attacks/3 IDOR/8 Mass IDOR Enumeration.md",
-    "15 Web Attacks/3 IDOR/7 Identifying IDORS.md",
     "15 Web Attacks/1 Introduction/1 Introduction to Web Attacks.md",
     "15 Web Attacks/5 Skill Assessment",
     "15 Web Attacks/4 XXE Injection",
