@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15 Web Attacks/5 Skill Assessment/18 Web Attacks Skill Assessment.md",
+                "file": "16 File Inclusion/2 File Disclosure/3 Basic Bypasses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18 Web Attacks Skill Assessment"
+              "title": "3 Basic Bypasses"
             }
           }
         ]
@@ -190,13 +190,30 @@
   },
   "active": "65c57641ec9e20ef",
   "lastOpenFiles": [
+    "16 File Inclusion/2 File Disclosure/4 PHP Filters.md",
+    "16 File Inclusion/2 File Disclosure/3 Basic Bypasses.md",
+    "16 File Inclusion/2 File Disclosure/2 Local File Inclusion (LFI).md",
+    "16 File Inclusion/1 Introduction/1 Intro to File Inclusions.md",
+    "16 File Inclusion/4 Automation and Prevention/10 File Inclusion Prevention.md",
+    "16 File Inclusion/5 Skill Assessment/11 Skill Assessment - File Inclusion.md",
+    "16 File Inclusion/4 Automation and Prevention/9 Automated Scanning.md",
+    "16 File Inclusion/3 Remote code execution/8 Log Poisoning.md",
+    "16 File Inclusion/3 Remote code execution/7 LFI and File Uploads.md",
+    "16 File Inclusion/3 Remote code execution/6 Remote File Inclusion (RFI).md",
+    "16 File Inclusion/3 Remote code execution/5 PHP Wrappers.md",
+    "15 Web Attacks/5 Skill Assessment/18 Web Attacks Skill Assessment.md",
+    "16 File Inclusion/5 Skill Assessment",
+    "16 File Inclusion/4 Automation and Prevention",
+    "16 File Inclusion/3 Remote code execution",
+    "16 File Inclusion/2 File Disclosure",
+    "16 File Inclusion/1 Introduction",
+    "16 File Inclusion",
     "15 Web Attacks/4 XXE Injection/15 Advance File Disclosure.md",
     "15 Web Attacks/4 XXE Injection/14 Local File Disclosure.md",
     "15 Web Attacks/3 IDOR/12 IDOR Prevention.md",
     "15 Web Attacks/3 IDOR/11 Chaining IDOR Vulnerabilities.md",
     "15 Web Attacks/3 IDOR/10 IDOR in Insecure APIs.md",
     "15 Web Attacks/3 IDOR/9 Bypassing Encoded References.md",
-    "15 Web Attacks/5 Skill Assessment/18 Web Attacks Skill Assessment.md",
     "15 Web Attacks/4 XXE Injection/17 XXE Prevention.md",
     "15 Web Attacks/4 XXE Injection/16 Blind Data Exfiltration.md",
     "15 Web Attacks/4 XXE Injection/13 Intro to XXE.md",
@@ -205,26 +222,9 @@
     "15 Web Attacks/3 IDOR/6 Intro to IDOR.md",
     "15 Web Attacks/2 HTTP Verb Tampering/5 Verb Tampering Prevention.md",
     "11 File Upload Attacks/upload.php file.md",
-    "11 File Upload Attacks/11 Skills Assessment - File Upload Attacks.md",
-    "11 File Upload Attacks/common-functions.php file.md",
-    "1. WEB Request/CRUD API.md",
-    "11 File Upload Attacks/2 Absent Validation.md",
-    "11 File Upload Attacks/1 Intro to File Upload Attacks.md",
-    "15 Web Attacks/2 HTTP Verb Tampering/4 Bypassing Security Filters.md",
-    "15 Web Attacks/2 HTTP Verb Tampering/3 Bypassing Basic Authentication.md",
-    "15 Web Attacks/2 HTTP Verb Tampering/2 Introduction to HTTP Verb Tampering.md",
-    "15 Web Attacks/1 Introduction/1 Introduction to Web Attacks.md",
     "15 Web Attacks/5 Skill Assessment",
     "15 Web Attacks/4 XXE Injection",
     "15 Web Attacks/3 IDOR",
-    "15 Web Attacks/2 HTTP Verb Tampering",
-    "15 Web Attacks/1 Introduction",
-    "14 Broken Authentication/6 Skill Assessment/14 Skill Assessment.md",
-    "Untitled.md",
-    "20 Bug Hunting Process",
-    "19 Attacking Common Applications",
-    "18 API Attacks",
-    "17 Attacking GraphQL",
-    "16 File Inclusions"
+    "15 Web Attacks/2 HTTP Verb Tampering"
   ]
 }
